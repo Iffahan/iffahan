@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Jackcops
+- 👋 Hi, My name is Iffahan Suksuwan
 - 👀 I’m interested in gaming & data mining
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking for a jobs
 - 📫 contact: jackcopsluncher@gmail.com
 
 <!---
