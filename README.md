@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;Hi+there+👋,+I'm+Iffahan+Suksuwan&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+Profile!;👋,+I'm+Iffahan+Suksuwan&center=true&width=380&height=45">
 
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Web%20Development-brightgreen" />
