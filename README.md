@@ -12,22 +12,9 @@
 
 I'm a passionate developer focused on creating innovative solutions across web, mobile, and embedded systems. I love learning new technologies and building things that make a difference.
 
-```bash
-const developer = {
-    name: "Iffahan Suksuwan",
-    interests: ["Web Development", "Mobile Apps", "Embedded Systems"],
-    email: "iffahan.suksuwan@gmail.com",
-    currentlyLearning: ["Python", "JavaScript", "Dart"],
-    lookingToCollaborate: true
-}
-```markdown project="GitHub Profile" file="README.md"
-...
-```
-
 ## 💻 Tech Stack
 
 ### Languages
-
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -35,8 +22,9 @@ const developer = {
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p> ### Frameworks & Libraries
+</p> 
 
+### Frameworks & Libraries
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
@@ -45,8 +33,9 @@ const developer = {
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Go_Fiber-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-</p> ### Hardware & IoT
+</p> 
 
+### Hardware & IoT
 <p align="left">
   <img src="https://img.shields.io/badge/Microcontrollers-CC0000?style=for-the-badge&logo=arduino&logoColor=white" />
 </p>
